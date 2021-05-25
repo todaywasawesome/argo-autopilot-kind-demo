@@ -1,0 +1,1 @@
+{"appName":"demoapp","userGivenName":"demoapp","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/demoapp/overlays/myprod","srcRepoURL":"https://github.com/todaywasawesome/argo-autopilot-kind-demo","srcTargetRevision":""}
